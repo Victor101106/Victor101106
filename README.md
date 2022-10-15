@@ -13,8 +13,8 @@
             </p>
         </td>
         <td>
-            <p align="center">
-                <img height="360em" src="https://static.wixstatic.com/media/2636fa_e8687c8db81b4e7db5529b93d4f912eb~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Instant%20information-pana.png"/>
+            <p id="image" align="center">
+                <img width="360em" src="https://static.wixstatic.com/media/2636fa_e8687c8db81b4e7db5529b93d4f912eb~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Instant%20information-pana.png"/>
             </p>
         </td>
     </tr>
