@@ -6,7 +6,7 @@
                 <li>📚 &nbsp; Studying Informatics at Instituto Federal do Maranhão</a></li>
                 <li>👑 &nbsp; Beginner Java Full-stack Developer </li>
                 <li>🤔 &nbsp; Interested in Game Development and Pixel Art</li>
-                <li>📒 &nbsp; Currently learning C language</li>
+                <li>📒 &nbsp; Currently learning C and TypeScript languages</li>
             </ul>
             <p align="center">
                 <br>
