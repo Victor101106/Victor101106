@@ -6,6 +6,7 @@
                 <li>📚 &nbsp; Studying Informatics at Instituto Federal do Maranhão</a></li>
                 <li>👑 &nbsp; Beginner Java Full-stack Developer </li>
                 <li>🤔 &nbsp; Interested in Game Development and Pixel Art</li>
+                <li>📒 &nbsp; Currently learning C language</li>
             </ul>
             <p align="center">
                 <br>
@@ -22,3 +23,13 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Victor101106/Victor101106/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Victor101106/Victor101106/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+</div>
