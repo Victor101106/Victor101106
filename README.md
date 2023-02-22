@@ -7,6 +7,7 @@
                 <li>👑 &nbsp; Beginner JavaScript Full-stack Developer </li>
                 <li>🤔 &nbsp; Interested in Game Development and Pixel Art</li>
                 <li>📒 &nbsp; Currently learning C and TypeScript languages</li>
+                <li>💡 &nbsp; I intend to study Java and SQL languages</li>
             </ul>
             <p align="center">
                 <br>
