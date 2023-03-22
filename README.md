@@ -10,7 +10,6 @@
                 <li>💡 &nbsp; I intend to study Java and SQL languages</li>
             </ul>
             <p align="center">
-                <br>
                 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Victor101106&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
             </p>
         </td>
