@@ -18,8 +18,7 @@ Hello World! I'm Victor Gabriel. I have been passionate about technology since I
 ##
 
 ### Contact
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+I must admit that I am not as active as I could be on my social media.
 <div>
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -29,7 +28,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##
 
 ### Skills
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I am currently working as a web developer, in which I mainly use HTML, CSS, JS/TS and other key technologies for development, such as NodeJS, MongoDB and Git. In addition I am studying architectures and concepts such as Clean Architecture, Clean Code and UI/UX.
+
+In the menu of my cost I studied several technologies, as a beginning I studied the concepts of algorithms and pseudo-codes. Already in my second semester I started studying the C language and sorting algorithms. I am currently studying the Java language in order to better understand OOP and SQL for a better understanding of relational databases.
+
+During a good part of my time as a developer I programmed in VBA (Visual Basic for Application) making games in PowerPoint for fun. So with that time I acquired a great experience about the language in both PowerPoint and Excel. During that time I developed some important projects for me, like: Ray Casting, QuadTree and some utility modules.
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
