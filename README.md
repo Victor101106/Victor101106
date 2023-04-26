@@ -17,16 +17,6 @@ Hello World! I'm Victor Gabriel. I have been passionate about technology since I
 
 ##
 
-### Contact
-I must admit that I am not as active as I could be on my social media.
-<div>
-  <a href="https://www.linkedin.com/in/victor101106" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white">
-</div>
-
-##
-
 ### Skills
 I currently work as a web developer, in which I mainly use HTML, CSS, JS/TS and other key technologies for development, such as NodeJS, MongoDB and Git. Also, I'm studying architectures and concepts like Clean Architecture, Clean Code and UI/UX.
 
