@@ -1,5 +1,5 @@
 # About Me
-Olá mundo! Eu sou um garoto chamado Victor Gabriel, tenho dezesseis anos de idade. Sou apaixonado por tecnologia desde criancinha, aos onze anos eu já fazia mods para o jogo Minecraft utilizando linguagem JavaScript
+Hello World! I'm a boy named Victor Gabriel, I'm sixteen years old. I have been passionate about technology since I was a child, I started my contact at eleven years old when I made mods for the Minecraft Pocket Edition game using JavaScript language. I am currently attending the second year of the technical course in informatics at the Federal Institute of Maranhão, where I have already learned a lot of content about computing and continue to learn more every day.
 
 ##
 
@@ -7,11 +7,6 @@ Olá mundo! Eu sou um garoto chamado Victor Gabriel, tenho dezesseis anos de ida
 
 <details open>
   <summary><strong>Checkers Warriors</strong></summary>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</details>
-
-<details>
-  <summary><strong>URL Shortener</strong></summary>
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </details>
 
