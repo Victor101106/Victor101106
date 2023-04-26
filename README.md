@@ -1,5 +1,5 @@
 # About Me
-Hello World! I'm a boy named Victor Gabriel, I'm sixteen years old. I have been passionate about technology since I was a child, I started my contact at eleven years old when I made mods for the Minecraft Pocket Edition game using JavaScript language. I am currently attending the second year of the technical course in informatics at the Federal Institute of Maranhão, where I have already learned a lot of content about computing and continue to learn more every day.
+Hello World! I'm Victor Gabriel. I have been passionate about technology since I was a child, I started my contact at eleven years old when I made mods for the Minecraft Pocket Edition game using JavaScript language. I am currently attending the second year of the technical course in informatics at the Federal Institute of Maranhão, where I have already learned a lot of content about computing and continue to learn more every day.
 
 ##
 
@@ -7,12 +7,12 @@ Hello World! I'm a boy named Victor Gabriel, I'm sixteen years old. I have been 
 
 <details open>
   <summary><strong>Checkers Warriors</strong></summary>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Checkers Warriors was an idea that came up with a group of friends that I decided to make a reality. In short, this is a checkers game with pixelated visuals and a soundtrack based on my favorite music style, Hard Rock. For this game I want to add all possible configurations of existing checkers around the world in addition to adding new game modes that may include powers or abilities that would enhance the gameplay.
 </details>
 
 <details>
   <summary><strong>Trick or Treat</strong></summary>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Trick-or-Treat was a small project developed for my institute's Halloween event for a dynamic game, in which each person would have a single chance to randomly choose an option. In the case of the good option, the person would win some sweets, but in the case of the bad option, the person would pay a challenge chosen by the judge.
 </details>
 
 ##
