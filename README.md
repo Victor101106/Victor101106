@@ -18,14 +18,6 @@ Hello World! I'm Victor Gabriel. I have been passionate about technology since I
 </details>
 
 ##
-
-### Skills
-I currently work as a web developer, in which I mainly use HTML, CSS, JS/TS and other key technologies for development, such as NodeJS, MongoDB and Git. Also, I'm studying architectures and concepts like Clean Architecture, Clean Code and UI/UX.
-
-In my course I studied several technologies, initially I studied the concepts of algorithms and pseudo-codes. Already in my second semester I started studying the C language and sorting algorithms. I am currently studying the Java language in order to better understand OOP and SQL for a better understanding of relational databases.
-
-During most of my time as a developer I programmed in VBA (Visual Basic for Application) making PowerPoint games for fun. So with that time I acquired a great experience about the language both in PowerPoint and in Excel. During that time I developed some important projects for me, such as: Ray Casting, QuadTree and some utility modules.
-
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
