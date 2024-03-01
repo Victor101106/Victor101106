@@ -1,3 +1,5 @@
+<img src="banner.jpg">
+
 # About Me
 Hello World! I'm Victor Gabriel. I have been passionate about technology since I was a child, I started my contact at eleven years old when I made mods for the Minecraft Pocket Edition game using JavaScript language. I am currently attending the second year of the technical course in informatics at the Federal Institute of Maranhão, where I have already learned a lot of content about computing and continue to learn more every day.
 
