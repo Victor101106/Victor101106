@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I'm Victor Gabriel, a Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
+Hello! I'm Victor Gabriel, a web developer from Brazil. I am currently studying IT Technician at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and am always looking for new knowledge and challenges. Thank you for your visit! I'm glad you made it this far.
 
 ## Current Project: Checkers Warriors
 
