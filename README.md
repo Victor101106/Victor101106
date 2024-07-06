@@ -13,10 +13,7 @@
 
 ## Contact Me
 
-📫 If you want to know more about me feel free to get in touch!
-
-- Email: victorgabriel101106+github@gmail.com
-- LinkedIn: <a href="https://linkedin.com/in/Victor101106">Victor101106</a>
+📫 If you want to know more about me feel free to get in touch: victorgabriel101106+github@gmail.com
 
 ##
 
