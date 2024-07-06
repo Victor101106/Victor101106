@@ -1,4 +1,4 @@
-<img src="banner.png">
+<img src="banner.jpg">
 <p align="center">📍 Monumento Natural das Árvores Fossilizadas do Tocantins, Brazil</p>
 
 ##
