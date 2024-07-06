@@ -3,9 +3,9 @@
 
 ##
 
-## Hello, I am Victor!
+## Hello, I'm Victor Gabriel!
 
-👋 I am a Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
+👋 A Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
 
 ## Current Project: Checkers Warriors
 
