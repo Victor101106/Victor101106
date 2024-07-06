@@ -5,7 +5,7 @@
 
 # About Me 
 
-Hello, World! 👋
+Hello, World! 👋 <br>
 I am a Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
 
 # Contact
