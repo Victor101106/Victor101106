@@ -7,11 +7,11 @@
 
 👋 Hello, I am a Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
 
-# Current Project: Checkers Warriors
+## Current Project: Checkers Warriors
 
 🎯 I'm currently developing Checkers Warriors, a game that brings together all the checkers variants in the world and a variant with special rules on a single platform. About the project, it is a multiplayer browser game with a pixelated look made in HTML5, CSS3, JavaScript and TypeScript in NodeJS. This project is a way to apply my knowledge in web development and improve my programming skills.
 
-# Contact
+## Contact
 
 📫 If you want to know more about me feel free to get in touch!
 
