@@ -3,11 +3,12 @@
 
 ##
 
-## About Me 
+# About Me 
 
-👋 Hello, World! I am a Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
+Hello, World! 👋
+I am a Web Developer in constant learning and I am currently studying IT at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and I am always looking for new knowledge and challenges.
 
-## Contact
+# Contact
 
 📫 If you want to know more about me feel free to get in touch!
 
