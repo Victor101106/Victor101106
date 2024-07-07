@@ -11,7 +11,7 @@ I'm currently developing Checkers Warriors, a game that brings together all the 
 
 ## Contact Me
 
-If you want to know more about me feel free to get in touch: victorgabriel101106+github@gmail.com
+If you want to know more about me or my projects, feel free to contact me: victorgabriel101106+github@gmail.com
 
 ##
 
