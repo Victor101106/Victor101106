@@ -1,8 +1,6 @@
 <img src="banner.png">
 <p align="center">📍 Monumento Natural das Árvores Fossilizadas do Tocantins, Brazil</p>
 
-##
-
 # About Me
 
 Hello! I'm Victor Gabriel, a web developer from Brazil. I am currently studying IT Technician at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and am always looking for new knowledge and challenges. Thank you for your visit!
