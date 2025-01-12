@@ -7,10 +7,6 @@
 
 Hello! I'm Victor Gabriel, a web developer from Brazil. I am currently studying IT Technician at the Instituto Federal do Maranhão (IFMA). I have a passion for programming and am always looking for new knowledge and challenges. Thank you for your visit!
 
-## Checkers Warriors
-
-I'm currently developing Checkers Warriors, a game that brings together all the checkers variants in the world and a variant with special rules on a single platform. About the project, it is a multiplayer browser game with a pixelated look made in HTML5, CSS3 and JS/TS.
-
 ## Contact Me
 
 If you want to know more about me or my projects, feel free to contact me: victorgabriel101106+github@gmail.com
