@@ -2,8 +2,6 @@
 
 <p align="center">📍 Monumento Natural das Árvores Fossilizadas do Tocantins, Brazil</p>
 
----
-
 # Who am I?
 
 Hello, World! 👋
