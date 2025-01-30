@@ -6,7 +6,7 @@
 
 Hello, World! 👋
 
-I'm Victor Gabriel, a Brazilian web developer, graduated as a Computer Technician from the Instituto Federal do Maranhão - Campus Avançado Porto Franco. Currently, I'm studying a Bachelor's degree in Computer Science at the Instituto Federal do Maranhão - Campus Imperatriz. Passionate about technology, always looking for new knowledge and challenges. Thank you for your visit!
+I'm Victor Gabriel, a Brazilian web developer, graduated as a Computer Technician from the Instituto Federal do Maranhão - Campus Avançado Porto Franco. Currently, I'm studying a Bachelor's degree in Computer Science at the Instituto Federal do Maranhão - Campus Imperatriz. I'm always looking for new knowledge and challenges. Thank you for your visit!
 
 If you want to know more about me or my projects, feel free to contact me: victorgabriel101106+github@gmail.com
 
