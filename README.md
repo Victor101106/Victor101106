@@ -12,9 +12,7 @@ If you want to know more about me or my projects, feel free to contact me: victo
 
 ## What is ParvaNota?
 
-ParvaNota is a simple and efficient web-based text editor, providing a distraction-free writing experience.
-
-Building ParvaNota was an opportunity to refine my skills in Next.js and Tailwind CSS, as well as deepen my knowledge of Docker.
+ParvaNota is a simple and efficient web-based text editor, providing a distraction-free writing experience. Building ParvaNota was an opportunity to refine my skills in Next.js and Tailwind CSS, as well as deepen my knowledge of Docker.
 
 ---
 
